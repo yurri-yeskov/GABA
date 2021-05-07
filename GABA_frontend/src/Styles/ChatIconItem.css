@@ -1,0 +1,50 @@
+.conversation-container {
+    display: inline-flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.conversation-container-new {
+    display: inline-flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.img-icon {
+    float: left;
+}
+
+.additional-info {
+    display: inline;
+}
+
+.icon-username {
+    margin-top: 2px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.icon-line {
+    color: rgb(75, 75, 75);
+    margin-top: 3px;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+
+.icon-line-new {
+    color: rgb(42, 112, 2);
+    font-style: italic;
+    margin-top: 3px;
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+
+.icon-time {
+    color: rgb(102, 102, 102);
+}

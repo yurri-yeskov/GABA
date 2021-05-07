@@ -1,0 +1,63 @@
+.a-book {
+  /*overflow-y: scroll;*/
+  text-align: center;
+  margin-top: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.userinfo {
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 100px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.author-name {
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 100px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.isbn {
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 100px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.location {
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 100px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.book-title {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a.button,
+button.button10 {
+  background-color: #7e947a;
+  height: 30px;
+
+  color: white;
+  border-radius: 3px;
+
+  border: 1px solid #7e947a;
+}
+button.button10:hover {
+  background-color: #cccc;
+}
+
+.book-condition {
+  text-align: left;
+  margin-top: 40px;
+  margin-left: 100px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}

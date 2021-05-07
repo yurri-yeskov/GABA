@@ -1,0 +1,39 @@
+.search-box {
+
+}
+.search-box .search-input{
+    width: 500px;
+    display: block !important;
+}
+
+.search-box .search-input input{
+    width: 100%;
+    border-radius: 500rem !important;
+}
+
+.list-box {
+    border: 1px solid #cccccc;
+    box-shadow: 10px 10px 30px 0px rgba(0,0,0,0, .75);
+    border-radius: 20px;
+}
+.list .imagebox .list-item{
+    width: 100%;
+}
+.list .imagebox{
+    width: 200px;
+}
+
+@media screen and (max-width: 600px) {
+    .search-box .search-input{
+        width: 90%;
+        display: block !important;
+    }
+  }
+
+  .book-grid {
+      display: flex;
+      flex-wrap: wrap;
+      margin-top: 35px;
+      margin-bottom: 55px;
+      margin-left: 10%;
+  }

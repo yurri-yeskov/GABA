@@ -1,0 +1,23 @@
+.chat-component-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chat-center {
+    display: flex;
+    flex-wrap: wrap;
+    width: 55%;
+}
+
+.chatlist {
+    background-color: whitesmoke;
+    width: 27%;
+    border-right: 2px solid gray;
+    height: 240vh;
+}
+
+.conversation {
+    width: 73%;
+    background-color: whitesmoke;
+}

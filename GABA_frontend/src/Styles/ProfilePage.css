@@ -1,0 +1,39 @@
+.button1 {
+  height: 30px;
+  margin-top: 5px;
+  padding: 5px;
+  position: relative;
+  left: 25%;
+  background-color: #7e947a;
+  border-radius: 3px;
+  border: 1px solid #7e947a;
+  background-color: #7e947a;
+  font-size: 1rem;
+  color: white;
+  background-image: linear-gradient(
+    to bottom,
+    transparent,
+    transparent 50%,
+    rgba(0, 0, 0, 0.04)
+  );
+}
+
+.button1:hover {
+  background-color: #cccc;
+}
+.profile-title {
+  color: whitesmoke;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin-top: 25px;
+}
+.log-out {
+  margin-left: 15px;
+}
+button.button20 {
+  background-color: #7e947a;
+  color: white;
+  border-radius: 3px;
+  border: 1px solid #7e947a;
+}
