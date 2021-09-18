@@ -1,3 +1,3 @@
 # GABA
 
-Nodejs, PostgreSQL, ReactJS, React-Redux, CSS, Bootstrap, Express
+Nodejs, Express, ReactJS, React-Redux, PostgreSQL, CSS, Bootstrap 
